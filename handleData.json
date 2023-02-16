@@ -1,0 +1,1365 @@
+{
+  "upid": "21312064000",
+  "platetype": "BSM48C",
+  "outOfGau": [
+    {
+      "name": "charging_temp_act",
+      "value": 0
+    },
+    {
+      "name": "tgtplatelength2",
+      "value": -0.0874
+    },
+    {
+      "name": "tgtplatethickness2",
+      "value": 0.0824
+    },
+    {
+      "name": "tgtwidth",
+      "value": 0
+    },
+    {
+      "name": "slab_length",
+      "value": 0
+    },
+    {
+      "name": "slab_thickness",
+      "value": 0
+    },
+    {
+      "name": "slab_weight_act",
+      "value": 0
+    },
+    {
+      "name": "slab_width",
+      "value": 0
+    },
+    {
+      "name": "ave_temp_1",
+      "value": -0.2391
+    },
+    {
+      "name": "ave_temp_2",
+      "value": -0.4557
+    },
+    {
+      "name": "ave_temp_dis",
+      "value": -0.202
+    },
+    {
+      "name": "ave_temp_pre",
+      "value": -0.1684
+    },
+    {
+      "name": "ave_temp_soak",
+      "value": -0.4622
+    },
+    {
+      "name": "ave_temp_entry_1",
+      "value": -0.2061
+    },
+    {
+      "name": "ave_temp_entry_2",
+      "value": -0.3066
+    },
+    {
+      "name": "ave_temp_entry_pre",
+      "value": -0.0961
+    },
+    {
+      "name": "ave_temp_entry_soak",
+      "value": -0.5252
+    },
+    {
+      "name": "center_temp_dis",
+      "value": -0.3358
+    },
+    {
+      "name": "center_temp_entry_1",
+      "value": -0.2208
+    },
+    {
+      "name": "center_temp_entry_2",
+      "value": -0.3089
+    },
+    {
+      "name": "center_temp_entry_pre",
+      "value": -0.1031
+    },
+    {
+      "name": "center_temp_entry_soak",
+      "value": -0.5762
+    },
+    {
+      "name": "temp_uniformity_dis",
+      "value": 0.5476
+    },
+    {
+      "name": "temp_uniformity_entry_1",
+      "value": 0.2236
+    },
+    {
+      "name": "temp_uniformity_entry_2",
+      "value": 0.307
+    },
+    {
+      "name": "temp_uniformity_entry_pre",
+      "value": 0.0093
+    },
+    {
+      "name": "temp_uniformity_entry_soak",
+      "value": 0.3957
+    },
+    {
+      "name": "skid_temp_dis",
+      "value": -0.1959
+    },
+    {
+      "name": "skid_temp_entry_1",
+      "value": -0.204
+    },
+    {
+      "name": "skid_temp_entry_2",
+      "value": -0.2939
+    },
+    {
+      "name": "skid_temp_entry_pre",
+      "value": -0.0947
+    },
+    {
+      "name": "skid_temp_entry_soak",
+      "value": -0.5177
+    },
+    {
+      "name": "staying_time_1",
+      "value": -0.25
+    },
+    {
+      "name": "staying_time_2",
+      "value": -0.2202
+    },
+    {
+      "name": "staying_time_pre",
+      "value": -0.2518
+    },
+    {
+      "name": "staying_time_soak",
+      "value": 0
+    },
+    {
+      "name": "sur_temp_dis",
+      "value": 0.1414
+    },
+    {
+      "name": "sur_temp_entry_1",
+      "value": -0.0587
+    },
+    {
+      "name": "sur_temp_entry_2",
+      "value": 0
+    },
+    {
+      "name": "sur_temp_entry_pre",
+      "value": -0.0547
+    },
+    {
+      "name": "sur_temp_entry_soak",
+      "value": 0
+    },
+    {
+      "name": "meas_temp_0",
+      "value": 0
+    },
+    {
+      "name": "meas_temp_1",
+      "value": 0
+    },
+    {
+      "name": "meas_temp_10",
+      "value": 0
+    },
+    {
+      "name": "meas_temp_11",
+      "value": 0
+    },
+    {
+      "name": "meas_temp_12",
+      "value": 0
+    },
+    {
+      "name": "meas_temp_13",
+      "value": 0
+    },
+    {
+      "name": "meas_temp_14",
+      "value": 0
+    },
+    {
+      "name": "meas_temp_15",
+      "value": 0
+    },
+    {
+      "name": "meas_temp_16",
+      "value": 0
+    },
+    {
+      "name": "meas_temp_17",
+      "value": 0
+    },
+    {
+      "name": "meas_temp_18",
+      "value": 0
+    },
+    {
+      "name": "meas_temp_19",
+      "value": 0
+    },
+    {
+      "name": "meas_temp_2",
+      "value": 0
+    },
+    {
+      "name": "meas_temp_3",
+      "value": 0
+    },
+    {
+      "name": "meas_temp_4",
+      "value": 0
+    },
+    {
+      "name": "meas_temp_5",
+      "value": 0
+    },
+    {
+      "name": "meas_temp_6",
+      "value": 0
+    },
+    {
+      "name": "meas_temp_7",
+      "value": 0
+    },
+    {
+      "name": "meas_temp_8",
+      "value": 0
+    },
+    {
+      "name": "meas_temp_9",
+      "value": 0
+    },
+    {
+      "name": "t_0",
+      "value": 0.1414
+    },
+    {
+      "name": "t_1",
+      "value": -0.0787
+    },
+    {
+      "name": "t_2",
+      "value": -0.3153
+    },
+    {
+      "name": "t_3",
+      "value": -0.3358
+    },
+    {
+      "name": "t_4",
+      "value": -0.3045
+    },
+    {
+      "name": "t_5",
+      "value": -0.1606
+    },
+    {
+      "name": "t_6",
+      "value": 0
+    },
+    {
+      "name": "pass",
+      "value": 0
+    },
+    {
+      "name": "crownbody",
+      "value": 0.1589
+    },
+    {
+      "name": "crownhead",
+      "value": 0.1798
+    },
+    {
+      "name": "crowntail",
+      "value": 0
+    },
+    {
+      "name": "crowntotal",
+      "value": 0.0945
+    },
+    {
+      "name": "devcrownbody",
+      "value": 0
+    },
+    {
+      "name": "devcrownhead",
+      "value": 0.1316
+    },
+    {
+      "name": "devcrowntail",
+      "value": 0
+    },
+    {
+      "name": "devcrowntotal",
+      "value": 0
+    },
+    {
+      "name": "devfinishtempbody",
+      "value": 0
+    },
+    {
+      "name": "devfinishtemphead",
+      "value": 0
+    },
+    {
+      "name": "devfinishtemptail",
+      "value": 0
+    },
+    {
+      "name": "devfinishtemptotal",
+      "value": 0
+    },
+    {
+      "name": "wedgebody",
+      "value": -0.1404
+    },
+    {
+      "name": "wedgehead",
+      "value": 0.2393
+    },
+    {
+      "name": "wedgetotal",
+      "value": -0.1118
+    },
+    {
+      "name": "devwedgebody",
+      "value": 0.1383
+    },
+    {
+      "name": "devwedgehead",
+      "value": 0.081
+    },
+    {
+      "name": "devwedgetail",
+      "value": 0
+    },
+    {
+      "name": "devwedgetotal",
+      "value": 0.1156
+    },
+    {
+      "name": "finishtempbody",
+      "value": 0
+    },
+    {
+      "name": "finishtemphead",
+      "value": 0
+    },
+    {
+      "name": "finishtemptail",
+      "value": 0
+    },
+    {
+      "name": "finishtemptotal",
+      "value": 0
+    }
+  ],
+  "train_len": 363,
+  "CONTJ": [
+    {
+      "name": "charging_temp_act",
+      "value": 0.0833,
+      "process": "plateSelf"
+    },
+    {
+      "name": "tgtplatelength2",
+      "value": 0.085,
+      "process": "plateSelf"
+    },
+    {
+      "name": "tgtplatethickness2",
+      "value": 0.0019,
+      "process": "plateSelf"
+    },
+    {
+      "name": "tgtwidth",
+      "value": 0.0363,
+      "process": "plateSelf"
+    },
+    {
+      "name": "slab_length",
+      "value": 0.0311,
+      "process": "plateSelf"
+    },
+    {
+      "name": "slab_thickness",
+      "value": 0.0121,
+      "process": "plateSelf"
+    },
+    {
+      "name": "slab_weight_act",
+      "value": 0.0385,
+      "process": "plateSelf"
+    },
+    {
+      "name": "slab_width",
+      "value": 0.0112,
+      "process": "plateSelf"
+    },
+    {
+      "name": "ave_temp_1",
+      "value": 0.7411,
+      "process": "heat"
+    },
+    {
+      "name": "ave_temp_2",
+      "value": 1,
+      "process": "heat"
+    },
+    {
+      "name": "ave_temp_dis",
+      "value": 0.0339,
+      "process": "heat"
+    },
+    {
+      "name": "ave_temp_pre",
+      "value": 0.4187,
+      "process": "heat"
+    },
+    {
+      "name": "ave_temp_soak",
+      "value": 0.2649,
+      "process": "heat"
+    },
+    {
+      "name": "ave_temp_entry_1",
+      "value": 0.5167,
+      "process": "heat"
+    },
+    {
+      "name": "ave_temp_entry_2",
+      "value": 0.7852,
+      "process": "heat"
+    },
+    {
+      "name": "ave_temp_entry_pre",
+      "value": 0.3037,
+      "process": "heat"
+    },
+    {
+      "name": "ave_temp_entry_soak",
+      "value": 0.5438,
+      "process": "heat"
+    },
+    {
+      "name": "center_temp_dis",
+      "value": 0.1645,
+      "process": "heat"
+    },
+    {
+      "name": "center_temp_entry_1",
+      "value": 0.5566,
+      "process": "heat"
+    },
+    {
+      "name": "center_temp_entry_2",
+      "value": 0.7889,
+      "process": "heat"
+    },
+    {
+      "name": "center_temp_entry_pre",
+      "value": 0.317,
+      "process": "heat"
+    },
+    {
+      "name": "center_temp_entry_soak",
+      "value": 0.7342,
+      "process": "heat"
+    },
+    {
+      "name": "temp_uniformity_dis",
+      "value": 0.4555,
+      "process": "heat"
+    },
+    {
+      "name": "temp_uniformity_entry_1",
+      "value": 0.2741,
+      "process": "heat"
+    },
+    {
+      "name": "temp_uniformity_entry_2",
+      "value": 0.838,
+      "process": "heat"
+    },
+    {
+      "name": "temp_uniformity_entry_pre",
+      "value": 0.0153,
+      "process": "heat"
+    },
+    {
+      "name": "temp_uniformity_entry_soak",
+      "value": 0.4461,
+      "process": "heat"
+    },
+    {
+      "name": "skid_temp_dis",
+      "value": 0.0334,
+      "process": "heat"
+    },
+    {
+      "name": "skid_temp_entry_1",
+      "value": 0.5124,
+      "process": "heat"
+    },
+    {
+      "name": "skid_temp_entry_2",
+      "value": 0.7679,
+      "process": "heat"
+    },
+    {
+      "name": "skid_temp_entry_pre",
+      "value": 0.3003,
+      "process": "heat"
+    },
+    {
+      "name": "skid_temp_entry_soak",
+      "value": 0.5215,
+      "process": "heat"
+    },
+    {
+      "name": "staying_time_1",
+      "value": 0.3293,
+      "process": "heat"
+    },
+    {
+      "name": "staying_time_2",
+      "value": 0.1683,
+      "process": "heat"
+    },
+    {
+      "name": "staying_time_pre",
+      "value": 0.2306,
+      "process": "heat"
+    },
+    {
+      "name": "staying_time_soak",
+      "value": 0.004,
+      "process": "heat"
+    },
+    {
+      "name": "sur_temp_dis",
+      "value": 0.1067,
+      "process": "heat"
+    },
+    {
+      "name": "sur_temp_entry_1",
+      "value": 0.2192,
+      "process": "heat"
+    },
+    {
+      "name": "sur_temp_entry_2",
+      "value": 0.0144,
+      "process": "heat"
+    },
+    {
+      "name": "sur_temp_entry_pre",
+      "value": 0.2462,
+      "process": "heat"
+    },
+    {
+      "name": "sur_temp_entry_soak",
+      "value": 0.0472,
+      "process": "heat"
+    },
+    {
+      "name": "meas_temp_0",
+      "value": 0.0086,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_1",
+      "value": 0.0086,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_10",
+      "value": 0.0493,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_11",
+      "value": 0.055,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_12",
+      "value": 0.0574,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_13",
+      "value": 0.0444,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_14",
+      "value": 0.0289,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_15",
+      "value": 0.0156,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_16",
+      "value": 0.0093,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_17",
+      "value": 0.0061,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_18",
+      "value": 0.0051,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_19",
+      "value": 0.0102,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_2",
+      "value": 0.0021,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_3",
+      "value": 0.0068,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_4",
+      "value": 0.0118,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_5",
+      "value": 0.0142,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_6",
+      "value": 0.0178,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_7",
+      "value": 0.0272,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_8",
+      "value": 0.0356,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_9",
+      "value": 0.0399,
+      "process": "measurFur"
+    },
+    {
+      "name": "t_0",
+      "value": 0.1067,
+      "process": "measurFur"
+    },
+    {
+      "name": "t_1",
+      "value": 0.0203,
+      "process": "measurFur"
+    },
+    {
+      "name": "t_2",
+      "value": 0.1088,
+      "process": "measurFur"
+    },
+    {
+      "name": "t_3",
+      "value": 0.1645,
+      "process": "measurFur"
+    },
+    {
+      "name": "t_4",
+      "value": 0.0625,
+      "process": "measurFur"
+    },
+    {
+      "name": "t_5",
+      "value": 0.0917,
+      "process": "measurFur"
+    },
+    {
+      "name": "t_6",
+      "value": 0.0659,
+      "process": "measurFur"
+    },
+    {
+      "name": "pass",
+      "value": 0.0056,
+      "process": "roll"
+    },
+    {
+      "name": "crownbody",
+      "value": 0.0703,
+      "process": "roll"
+    },
+    {
+      "name": "crownhead",
+      "value": 0.106,
+      "process": "roll"
+    },
+    {
+      "name": "crowntail",
+      "value": 0.0366,
+      "process": "roll"
+    },
+    {
+      "name": "crowntotal",
+      "value": 0.0969,
+      "process": "roll"
+    },
+    {
+      "name": "devcrownbody",
+      "value": 0.0035,
+      "process": "roll"
+    },
+    {
+      "name": "devcrownhead",
+      "value": 0.0249,
+      "process": "roll"
+    },
+    {
+      "name": "devcrowntail",
+      "value": 0.0134,
+      "process": "roll"
+    },
+    {
+      "name": "devcrowntotal",
+      "value": 0,
+      "process": "roll"
+    },
+    {
+      "name": "devfinishtempbody",
+      "value": 0.0231,
+      "process": "roll"
+    },
+    {
+      "name": "devfinishtemphead",
+      "value": 0.0105,
+      "process": "roll"
+    },
+    {
+      "name": "devfinishtemptail",
+      "value": 0.0117,
+      "process": "roll"
+    },
+    {
+      "name": "devfinishtemptotal",
+      "value": 0.0167,
+      "process": "roll"
+    },
+    {
+      "name": "wedgebody",
+      "value": 0.0247,
+      "process": "roll"
+    },
+    {
+      "name": "wedgehead",
+      "value": 0.0017,
+      "process": "roll"
+    },
+    {
+      "name": "wedgetotal",
+      "value": 0.0164,
+      "process": "roll"
+    },
+    {
+      "name": "devwedgebody",
+      "value": 0.0001,
+      "process": "roll"
+    },
+    {
+      "name": "devwedgehead",
+      "value": 0.0086,
+      "process": "roll"
+    },
+    {
+      "name": "devwedgetail",
+      "value": 0.0012,
+      "process": "roll"
+    },
+    {
+      "name": "devwedgetotal",
+      "value": 0.0024,
+      "process": "roll"
+    },
+    {
+      "name": "finishtempbody",
+      "value": 0.0218,
+      "process": "roll"
+    },
+    {
+      "name": "finishtemphead",
+      "value": 0.0224,
+      "process": "roll"
+    },
+    {
+      "name": "finishtemptail",
+      "value": 0.0218,
+      "process": "roll"
+    },
+    {
+      "name": "finishtemptotal",
+      "value": 0.0218,
+      "process": "roll"
+    }
+  ],
+  "CONTQ": [
+    {
+      "name": "charging_temp_act",
+      "value": 0.01,
+      "process": "plateSelf"
+    },
+    {
+      "name": "tgtplatelength2",
+      "value": 0.0298,
+      "process": "plateSelf"
+    },
+    {
+      "name": "tgtplatethickness2",
+      "value": 0.0135,
+      "process": "plateSelf"
+    },
+    {
+      "name": "tgtwidth",
+      "value": 0.0041,
+      "process": "plateSelf"
+    },
+    {
+      "name": "slab_length",
+      "value": 0.0261,
+      "process": "plateSelf"
+    },
+    {
+      "name": "slab_thickness",
+      "value": 0.1397,
+      "process": "plateSelf"
+    },
+    {
+      "name": "slab_weight_act",
+      "value": 0.0534,
+      "process": "plateSelf"
+    },
+    {
+      "name": "slab_width",
+      "value": 0.0444,
+      "process": "plateSelf"
+    },
+    {
+      "name": "ave_temp_1",
+      "value": 0.0145,
+      "process": "heat"
+    },
+    {
+      "name": "ave_temp_2",
+      "value": 0.0115,
+      "process": "heat"
+    },
+    {
+      "name": "ave_temp_dis",
+      "value": 0.0003,
+      "process": "heat"
+    },
+    {
+      "name": "ave_temp_pre",
+      "value": 0.0015,
+      "process": "heat"
+    },
+    {
+      "name": "ave_temp_soak",
+      "value": 0.0408,
+      "process": "heat"
+    },
+    {
+      "name": "ave_temp_entry_1",
+      "value": 0.0015,
+      "process": "heat"
+    },
+    {
+      "name": "ave_temp_entry_2",
+      "value": 0.0308,
+      "process": "heat"
+    },
+    {
+      "name": "ave_temp_entry_pre",
+      "value": 0.0046,
+      "process": "heat"
+    },
+    {
+      "name": "ave_temp_entry_soak",
+      "value": 0.0921,
+      "process": "heat"
+    },
+    {
+      "name": "center_temp_dis",
+      "value": 0,
+      "process": "heat"
+    },
+    {
+      "name": "center_temp_entry_1",
+      "value": 0.0115,
+      "process": "heat"
+    },
+    {
+      "name": "center_temp_entry_2",
+      "value": 0.0148,
+      "process": "heat"
+    },
+    {
+      "name": "center_temp_entry_pre",
+      "value": 0.0001,
+      "process": "heat"
+    },
+    {
+      "name": "center_temp_entry_soak",
+      "value": 0.0053,
+      "process": "heat"
+    },
+    {
+      "name": "temp_uniformity_dis",
+      "value": 0.5181,
+      "process": "heat"
+    },
+    {
+      "name": "temp_uniformity_entry_1",
+      "value": 0.1645,
+      "process": "heat"
+    },
+    {
+      "name": "temp_uniformity_entry_2",
+      "value": 0.123,
+      "process": "heat"
+    },
+    {
+      "name": "temp_uniformity_entry_pre",
+      "value": 0.4873,
+      "process": "heat"
+    },
+    {
+      "name": "temp_uniformity_entry_soak",
+      "value": 0.0603,
+      "process": "heat"
+    },
+    {
+      "name": "skid_temp_dis",
+      "value": 0.0094,
+      "process": "heat"
+    },
+    {
+      "name": "skid_temp_entry_1",
+      "value": 0.001,
+      "process": "heat"
+    },
+    {
+      "name": "skid_temp_entry_2",
+      "value": 0.0454,
+      "process": "heat"
+    },
+    {
+      "name": "skid_temp_entry_pre",
+      "value": 0.0059,
+      "process": "heat"
+    },
+    {
+      "name": "skid_temp_entry_soak",
+      "value": 0.0571,
+      "process": "heat"
+    },
+    {
+      "name": "staying_time_1",
+      "value": 0.026,
+      "process": "heat"
+    },
+    {
+      "name": "staying_time_2",
+      "value": 0.2548,
+      "process": "heat"
+    },
+    {
+      "name": "staying_time_pre",
+      "value": 0.8847,
+      "process": "heat"
+    },
+    {
+      "name": "staying_time_soak",
+      "value": 0.3492,
+      "process": "heat"
+    },
+    {
+      "name": "sur_temp_dis",
+      "value": 0.2487,
+      "process": "heat"
+    },
+    {
+      "name": "sur_temp_entry_1",
+      "value": 0.0177,
+      "process": "heat"
+    },
+    {
+      "name": "sur_temp_entry_2",
+      "value": 0.411,
+      "process": "heat"
+    },
+    {
+      "name": "sur_temp_entry_pre",
+      "value": 0.1016,
+      "process": "heat"
+    },
+    {
+      "name": "sur_temp_entry_soak",
+      "value": 0.2581,
+      "process": "heat"
+    },
+    {
+      "name": "meas_temp_0",
+      "value": 0.0023,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_1",
+      "value": 0.0001,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_10",
+      "value": 0.0002,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_11",
+      "value": 0,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_12",
+      "value": 0.0076,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_13",
+      "value": 0.005,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_14",
+      "value": 0.006,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_15",
+      "value": 0.0106,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_16",
+      "value": 0.0128,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_17",
+      "value": 0.0148,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_18",
+      "value": 0.0235,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_19",
+      "value": 0.0001,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_2",
+      "value": 0.0065,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_3",
+      "value": 0.0047,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_4",
+      "value": 0.0148,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_5",
+      "value": 0.0008,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_6",
+      "value": 0.0373,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_7",
+      "value": 0.0152,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_8",
+      "value": 0.0123,
+      "process": "measurFur"
+    },
+    {
+      "name": "meas_temp_9",
+      "value": 0.0013,
+      "process": "measurFur"
+    },
+    {
+      "name": "t_0",
+      "value": 0.2487,
+      "process": "measurFur"
+    },
+    {
+      "name": "t_1",
+      "value": 0.0442,
+      "process": "measurFur"
+    },
+    {
+      "name": "t_2",
+      "value": 0.0036,
+      "process": "measurFur"
+    },
+    {
+      "name": "t_3",
+      "value": 0,
+      "process": "measurFur"
+    },
+    {
+      "name": "t_4",
+      "value": 0.006,
+      "process": "measurFur"
+    },
+    {
+      "name": "t_5",
+      "value": 0.034,
+      "process": "measurFur"
+    },
+    {
+      "name": "t_6",
+      "value": 0.0199,
+      "process": "measurFur"
+    },
+    {
+      "name": "pass",
+      "value": 0.0375,
+      "process": "roll"
+    },
+    {
+      "name": "crownbody",
+      "value": 0.0236,
+      "process": "roll"
+    },
+    {
+      "name": "crownhead",
+      "value": 0.0762,
+      "process": "roll"
+    },
+    {
+      "name": "crowntail",
+      "value": 0.0638,
+      "process": "roll"
+    },
+    {
+      "name": "crowntotal",
+      "value": 0.0124,
+      "process": "roll"
+    },
+    {
+      "name": "devcrownbody",
+      "value": 0.003,
+      "process": "roll"
+    },
+    {
+      "name": "devcrownhead",
+      "value": 0.0206,
+      "process": "roll"
+    },
+    {
+      "name": "devcrowntail",
+      "value": 0.0034,
+      "process": "roll"
+    },
+    {
+      "name": "devcrowntotal",
+      "value": 0.0019,
+      "process": "roll"
+    },
+    {
+      "name": "devfinishtempbody",
+      "value": 0.0036,
+      "process": "roll"
+    },
+    {
+      "name": "devfinishtemphead",
+      "value": 0.146,
+      "process": "roll"
+    },
+    {
+      "name": "devfinishtemptail",
+      "value": 0.0194,
+      "process": "roll"
+    },
+    {
+      "name": "devfinishtemptotal",
+      "value": 0.0328,
+      "process": "roll"
+    },
+    {
+      "name": "wedgebody",
+      "value": 0.0007,
+      "process": "roll"
+    },
+    {
+      "name": "wedgehead",
+      "value": 1,
+      "process": "roll"
+    },
+    {
+      "name": "wedgetotal",
+      "value": 0.0075,
+      "process": "roll"
+    },
+    {
+      "name": "devwedgebody",
+      "value": 0.0182,
+      "process": "roll"
+    },
+    {
+      "name": "devwedgehead",
+      "value": 0.0788,
+      "process": "roll"
+    },
+    {
+      "name": "devwedgetail",
+      "value": 0.0127,
+      "process": "roll"
+    },
+    {
+      "name": "devwedgetotal",
+      "value": 0.0293,
+      "process": "roll"
+    },
+    {
+      "name": "finishtempbody",
+      "value": 0.0167,
+      "process": "roll"
+    },
+    {
+      "name": "finishtemphead",
+      "value": 0.0168,
+      "process": "roll"
+    },
+    {
+      "name": "finishtemptail",
+      "value": 0.0139,
+      "process": "roll"
+    },
+    {
+      "name": "finishtemptotal",
+      "value": 0.0164,
+      "process": "roll"
+    }
+  ],
+  "upperTotal": 16,
+  "lowerTotal": 32,
+  "upperFive": [
+    {
+      "original_value": 107,
+      "original_l": 10,
+      "original_u": 38,
+      "name": "temp_uniformity_dis"
+    },
+    {
+      "original_value": 255,
+      "original_l": 78,
+      "original_u": 145,
+      "name": "temp_uniformity_entry_soak"
+    },
+    {
+      "original_value": 361,
+      "original_l": 181,
+      "original_u": 243,
+      "name": "temp_uniformity_entry_2"
+    },
+    {
+      "original_value": 0.0016,
+      "original_l": -0.0001,
+      "original_u": 0.0003,
+      "name": "wedgehead"
+    },
+    {
+      "original_value": 294,
+      "original_l": 200,
+      "original_u": 247.5,
+      "name": "temp_uniformity_entry_1"
+    }
+  ],
+  "lowerFive": [
+    {
+      "original_value": 889,
+      "original_l": 1028.5,
+      "original_u": 1071,
+      "name": "center_temp_entry_soak"
+    },
+    {
+      "original_value": 976,
+      "original_l": 1067,
+      "original_u": 1096,
+      "name": "ave_temp_entry_soak"
+    },
+    {
+      "original_value": 968,
+      "original_l": 1058,
+      "original_u": 1087,
+      "name": "skid_temp_entry_soak"
+    },
+    {
+      "original_value": 1021,
+      "original_l": 1076,
+      "original_u": 1097.5,
+      "name": "ave_temp_soak"
+    },
+    {
+      "original_value": 857,
+      "original_l": 965,
+      "original_u": 1011,
+      "name": "ave_temp_2"
+    }
+  ]
+}
